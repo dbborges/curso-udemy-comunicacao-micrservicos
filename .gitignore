@@ -1,2 +1,4 @@
 auth-api/node_modules
 sales-api/node_modules
+
+auth-api/.vscode/
